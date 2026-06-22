@@ -26,7 +26,7 @@ So sollten die Einstellungen am Ende aussehen:
 
 > Wenn du diese Einstellungen auf **„Freunde“** setzt, wird der Chat-Zugriff in Minecraft: Java Edition **„Blockiert“**.
 >
-{style="note"}
+{style="tip"}
 
 Eltern und Erziehungsberechtigte können die Einstellungen für Kinderkonten verwalten, die Teil einer Familiengruppe sind. Weitere Informationen findest du auf folgenden Seiten:
 
