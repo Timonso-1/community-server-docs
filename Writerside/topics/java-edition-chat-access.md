@@ -5,7 +5,7 @@ Falls du in Minecraft: Java Edition nicht auf den Chat zugreifen kannst, musst d
 ## Xbox-Chateinstellungen online anpassen
 
 1. Öffne [Privatsphäre & Onlinesicherheit](https://www.xbox.com/de-DE/user/settings/privacy-and-safety?rtc=1&activetab=main:privacytab) auf der Xbox-Einstellungsseite.
-2. Melde dich mit einem **Erwachsenen-** oder **Eltern-/Erziehungsberechtigten-Konto** an.
+2. Melde dich mit einem **Erwachsenen- oder Eltern-/Erziehungsberechtigten-Konto** an.
 3. Wähle die Kachel des Kontos aus, das du verwalten möchtest.
 4. Wähle auf dem Bildschirm mit den Kontoeinstellungen den Tab **Privatsphäre**.
 5. Stelle die folgenden Optionen ein, um vollen Zugriff auf den Chat zu erlauben:
