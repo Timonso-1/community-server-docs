@@ -56,7 +56,7 @@ In diesem Artikel findest du hilfreiche Tipps, wie du etwaige Probleme auf unser
 5. **Vanilla-Client nutzen:** Versuche es mit dem Vanilla-Minecraft-Client ohne Mods, um mögliche Konflikte
    zu vermeiden.
 6. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus und wieder ein.
-7. **Xbox-Chateinstellungen prüfen:** Stelle sicher, dass dein Xbox-/Microsoft-Konto den Chat erlaubt. Wie du das einstellst, erfährst du unter [Chat-Zugriff in Minecraft: Java Edition freischalten](java-edition-chat-access.md).
+7. **Xbox-Chateinstellungen prüfen:** Stelle sicher, dass dein Xbox-/Microsoft-Konto den Chat erlaubt. Unter [Chat-Zugriff in Minecraft: Java Edition freischalten](java-edition-chat-access.md) erfährst du, wie du die Einstellung anpasst.
 
 </tab>
 
