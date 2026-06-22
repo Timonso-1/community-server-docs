@@ -20,7 +20,7 @@ So sollten die Einstellungen am Ende aussehen:
 
 ![java-chat-access-2.png](java-chat-access-2.png)
 
-> Wenn diese Einstellungen ausgegraut sind, kannst du sie nicht selbst ändern. In diesem Fall muss ein Eltern- oder Erziehungsberechtigten-Konto die Einstellungen für dich anpassen.
+> Wenn diese Einstellungen ausgegraut sind, kannst du sie nicht selbst ändern. In diesem Fall muss ein Elternteil oder Erziehungsberechtigter die Einstellungen für dich anpassen.
 >
 {style="note"}
 
