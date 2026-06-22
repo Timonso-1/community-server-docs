@@ -10,7 +10,7 @@ Falls du in Minecraft: Java Edition nicht auf den Chat zugreifen kannst, musst d
 4. Wähle auf dem Bildschirm mit den Kontoeinstellungen den Tab **Privatsphäre**.
 5. Stelle die folgenden Optionen ein, um vollen Zugriff auf den Chat zu erlauben:
    - Stelle **Sie können außerhalb der Xbox mit Sprache und Text kommunizieren** auf **Zulassen**.
-   - **Andere können per Sprache, Text oder Einladungen kommunizieren:** auf **Alle** stellen
+   - Stelle **Andere können per Sprache, Text oder Einladungen kommunizieren** auf **Alle**.
 6. Wähle **Senden** und warte, bis die Seite neu geladen wurde.
 7. Melde dich von Minecraft ab und starte das Spiel neu, um deine Berechtigungen zu aktualisieren.
 
