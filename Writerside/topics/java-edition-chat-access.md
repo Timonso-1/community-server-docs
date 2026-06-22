@@ -22,7 +22,7 @@ So sollten die Einstellungen am Ende aussehen:
 
 > Wenn diese Einstellungen ausgegraut sind, kannst du sie nicht selbst ändern. In diesem Fall muss ein Eltern- oder Erziehungsberechtigten-Konto die Einstellungen für dich anpassen.
 >
-{style="warning"}
+{style="note"}
 
 > Wenn du diese Einstellungen auf **„Freunde“** setzt, wird der Chat-Zugriff in Minecraft: Java Edition **„Blockiert“**.
 >
