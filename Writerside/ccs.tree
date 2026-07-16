@@ -59,6 +59,7 @@
         <toc-element topic="how-to-take-part-in-an-event.md"/>
         <toc-element toc-title="Events">
             <toc-element topic="anarchy2-event.md"/>
+            <toc-element topic="rich-event.md"/>
             <toc-element topic="oneblock-event.md"/>
             <toc-element topic="desert-event.md"/>
             <toc-element topic="randomizer-event.md"/>
@@ -81,7 +82,6 @@
             <toc-element topic="flatworld.md"/>
             <toc-element topic="stoneblock-event.md"/>
             <toc-element topic="anarchy-event.md"/>
-            <toc-element topic="rich-event.md"/>
         </toc-element>
     </toc-element>
   <toc-element topic="rank-overview.topic">
