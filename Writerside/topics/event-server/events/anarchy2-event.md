@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-held"/>
 <secondary-label ref="anarchy-event-2-mc-version"/>
 <secondary-label ref="anarchy-event-2-date"/>
 
