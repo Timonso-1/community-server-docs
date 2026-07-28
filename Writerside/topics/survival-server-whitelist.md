@@ -7,7 +7,7 @@ Stattdessen ist eine **aktive Verbindung zwischen deinem Discord- und Minecraft-
 
 1. **Discord beitreten:** Stelle sicher, dass du Mitglied auf unserem [Discord-Server](%dc_link%) bist.
 2. **Accounts verknüpfen:** Öffne die [Account-Verwaltung](https://auth.castcrafter.de/account?tab=accounts) und melde dich an.
-3. **Discord & Minecraft verbinden:** Verknüpfe dort sowohl deinen **Discord-Account** als auch deinen **Minecraft-Account**.
+3. **Discord und Minecraft verbinden:** Verknüpfe dort deinen **Discord-Account** und deinen **Minecraft-Account**.
 4. **Server betreten:** Sobald beide Accounts erfolgreich miteinander verbunden sind, kannst du den Survival-Server direkt betreten.
 
 ### Verbindungsstatus prüfen {id="connection-status"}
