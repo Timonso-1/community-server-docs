@@ -1,4 +1,4 @@
-# Discord-Minecraft Verbindung einrichten
+# Discord-Minecraft-Verbindung einrichten
 
 Um auf dem **Survival-Server** spielen zu können, benötigst du keine klassische Whitelist mehr.\
 Stattdessen ist eine **aktive Verbindung zwischen deinem Discord- und Minecraft-Account** erforderlich.
