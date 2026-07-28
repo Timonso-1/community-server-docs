@@ -27,10 +27,7 @@ Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla-
 Um auf dem Survival-Server zu spielen, müssen folgende Bedingungen erfüllt sein:
 * **Version:** [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) [%required_game_version%](%required_game_version_link%).
 * **Discord:** Ein aktiver Discord-Account ist zwingend erforderlich.
-* **Whitelist:** Du musst eine [Whitelist](survival-server-whitelist.md "%click-more-info%") auf unserem [Discord-Server](%dc_link%)
-  erstellen.
-* **Aktivität:** Sobald du auf der Whitelist bist, darfst du den Discord-Server nicht mehr verlassen, da sonst der
-  Zugriff entfällt.
+* **Minecraft-Discord-Verbindung:** Du musst eine aktive [Minecraft-Discord-Verbindung](survival-server-whitelist.md "%click-more-info%") haben.
 
 Weitere Informationen zur Whitelist erfährst du [hier](survival-server-whitelist.md "%click-more-info%").
 </def>
