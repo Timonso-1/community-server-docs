@@ -11,24 +11,24 @@ Du erhöhst dein Fishing-Level, indem du Fische fängst, Schätze angelst oder M
 
 Der Fishing-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Magnetic Rod" id="magnetic-rod">
 
-Fische beißen <tooltip term="depends-on-level">`0% → 25%`</tooltip> schneller an
+Fische beißen <tooltip term="depends-on-level">`0 % → 25 %`</tooltip> schneller an.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Neptune's Favor" id="neptunes-favor">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von Meerestieren zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Meerestieren zu erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Bigger Lungs" id="bigger-lungs">
 
-Du kannst unter Wasser <tooltip term="depends-on-level">`0% → 300%`</tooltip> länger atmen
+Du kannst unter Wasser <tooltip term="depends-on-level">`0 % → 300 %`</tooltip> länger atmen.
 
 **Verfügbar ab Level: 21**
 

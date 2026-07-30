@@ -24,7 +24,7 @@ Die Fähigkeiten sind thematisch an den Skill angepasst und bieten verschiedene 
 > Deepslate auch ohne TNT-Duper schneller abbauen, um so z. B. große Löcher schneller ausheben zu können.
 >
 
-Weitere Informationen zu den einzelnen Skills sind auf der Wiki-Seite des jeweiligen Skills zu finden. Diese sind oben
+Weitere Informationen zu den einzelnen Skills findest du auf der jeweiligen Dokumentationsseite. Diese Seiten sind oben
 verlinkt.
 
 ## Das Skillmenü {id="das-skillmenu"}

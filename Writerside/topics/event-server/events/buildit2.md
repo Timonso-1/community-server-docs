@@ -2,7 +2,7 @@
 <secondary-label ref="buildit2-mc-version"/>
 <secondary-label ref="buildit2-date"/>
 
-# Bau es – Du bekommst es
+# Bau es – du bekommst es
 
 <video src="https://www.youtube.com/watch?v=GHD7jjgG6Zg"/>
 
@@ -20,25 +20,25 @@ Die **Gewinner erhalten ihr gebautes Objekt in der realen Welt.**
 
 > Neben den allgemeinen [Serverregeln](rules.md) gilt folgender Zusatz:
 >
-> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic-Mods nicht gestattet** und kann zu einem Ausschluss führen!
+> In diesem Event ist die Nutzung von **Litematica und/oder anderen Schematic-Modifikationen nicht gestattet** und kann zu einem Ausschluss führen!
 >
 {style="warning" title="Es gibt geänderte Regeln speziell für dieses Event!"}
 
-### VoiceChat {id="voicechat"}
+### Sprachchat {id="voicechat"}
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
-Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 
 ## Q&amp;A {id="q-a"}
 
 {collapsible="true" default-state="collapsed"}  
 Wann beginnt das Event? {id="event-date"} 
-: Das Event läuft am **04.05.2025**
+: Das Event läuft am **04.05.2025**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
-: Das Event findet in der Version **1.21.4** & **1.21.5** statt.
+: Das Event findet in den Versionen **1.21.4** und **1.21.5** statt.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Halte dich

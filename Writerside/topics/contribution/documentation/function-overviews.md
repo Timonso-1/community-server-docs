@@ -54,7 +54,7 @@ Beispiel:
 ![Alternativer Text](fork-repo-first.png)
 ```
 
-> Die Bilder sollten im `images`-Ordner liegen, damit sie auch auf der Website angezeigt werden können. \
+> Bilder sollten im Ordner `images` liegen, damit sie auch auf der Website angezeigt werden können. \
 > Hier ist eine [Anleitung](https://www.jetbrains.com/help/writerside/visual-elements.html#img) dazu, allerdings auf
 > Englisch. Es folgt bald eine deutsche Version.
 > 
@@ -72,7 +72,7 @@ Beispiel:
 ````
 
 ````text
-``` java
+```java
 public static void main(String[] args) {
     System.out.println("Hello World");
 }
@@ -87,7 +87,7 @@ public static void main(String[] args) {
 
 {style="note"}
 
-Das waren einige grundlegende Markdown-Formatierungsanweisungen, die du in WriterSide verwenden kannst. Du kannst diese
+Das waren einige grundlegende Markdown-Formatierungsanweisungen, die du in Writerside verwenden kannst. Du kannst diese
 Formatierungen kombinieren, um deinen Text nach deinen Vorstellungen zu gestalten.
 
 Viel Spaß beim Schreiben!

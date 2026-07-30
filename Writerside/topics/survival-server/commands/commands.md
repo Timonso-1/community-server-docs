@@ -2,7 +2,7 @@
 
 ## Folgende Befehle kannst du auf dem Server verwenden: {id="commands"}
 
-#### Chat und Textnachrichten {collapsible="true" default-state="collapsed" id="survival-server-chat-commands"}
+### Chat und Textnachrichten {collapsible="true" default-state="collapsed" id="survival-server-chat-commands"}
 
 <deflist>
 <def title="/msg &lt;player&gt; &lt;message&gt;" id="msg"> 
@@ -20,7 +20,7 @@ Blockiert den angegebenen Spieler im Chat.
 </def>
 </deflist>
 
-#### Informationen {collapsible="true" default-state="collapsed" id="survival-server-information-commands"}
+### Informationen {collapsible="true" default-state="collapsed" id="survival-server-information-commands"}
 
 /playtime {id="playtime"}
 : Zeigt die aktuelle <tooltip term="Spielstunde">Spielzeit</tooltip> auf dem Server an.
@@ -28,15 +28,15 @@ Blockiert den angegebenen Spieler im Chat.
 /balance %main_currency% {id="balance"}
 : Zeigt den aktuellen Kontostand der %main_currency%s oder %event_coin%s an.
 
-#### Köpfe {collapsible="true" default-state="collapsed" id="survival-server-head-commands"}
+### Köpfe {collapsible="true" default-state="collapsed" id="survival-server-head-commands"}
 
 /phead &lt;player&gt; {id="phead"}
 : Gibt dir den Kopf des angegebenen Spielers.
 
 /heads {id="heads"}
-: Öffnet ein Menü, aus dem du Köpfe bekommen kannst. Siehe auch [Köpfe](armorstand.md)
+: Öffnet ein Menü, aus dem du Köpfe bekommen kannst. Siehe auch [Köpfe](armorstand.md).
 
-#### Grundstücke {collapsible="true" default-state="collapsed" id="survival-server-plot-commands"}
+### Grundstücke {collapsible="true" default-state="collapsed" id="survival-server-plot-commands"}
 
 /pwho {id="pwho"}
 : Zeigt an, auf welchem Grundstück du dich gerade befindest.
@@ -57,10 +57,10 @@ Befreit dich, falls du auf einem fremden Grundstück feststeckst.
 : Öffnet ein Menü, um Grundstücke zu erstellen, den Visualisierungsmodus zu aktivieren oder um dir
 eine Liste aller Grundstücke anzuzeigen, die in deinem Besitz sind.
 
-#### Chestprotect {collapsible="true" default-state="collapsed" id="survival-server-chestprotect-commands"}
+### ChestProtect {collapsible="true" default-state="collapsed" id="survival-server-chestprotect-commands"}
 
 /chestprotect {id="chestprotect"}
-: Öffnet das Hauptmenü von Chestprotect.
+: Öffnet das Hauptmenü von ChestProtect.
 
 /lock {id="lock"}
 : Sperrt eine Kiste nach anschließendem Anklicken.
@@ -69,12 +69,12 @@ eine Liste aller Grundstücke anzuzeigen, die in deinem Besitz sind.
 : Entsperrt eine Kiste nach anschließendem Anklicken.
 
 /trust &lt;player&gt; {id="trust"}
-: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nachdem du die Kiste angeklickt hast.
 
 /untrust &lt;player&gt; {id="untrust"}
 : Entfernt den angegebenen Spieler aus der Sicherung, nachdem du die Kiste angeklickt hast.
 
-#### Positionen {collapsible="true" default-state="collapsed" id="survival-server-position-commands"}
+### Positionen {collapsible="true" default-state="collapsed" id="survival-server-position-commands"}
 
 /lay {id="lay"}
 : Mit diesem Befehl kannst du dich auf den Boden legen.

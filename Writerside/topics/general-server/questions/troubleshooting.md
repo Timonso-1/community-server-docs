@@ -14,7 +14,7 @@ beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
    beheben.
 2. **Aktuelle Version verwenden:** Verwende die neueste Version von Minecraft, um die bestmögliche
    Performance und Kompatibilität sicherzustellen.
-3. **Vanilla-Client nutzen:** Versuche es mit dem Vanilla-Minecraft-Client ohne Mods, um mögliche
+3. **Vanilla-Client nutzen:** Versuche es mit dem Vanilla-Minecraft-Client ohne Modifikationen, um mögliche
    Konflikte zu vermeiden, die Verbindungsprobleme oder Lag verursachen könnten.
 4. **Computer neu starten:** Ein Neustart deines Computers kann Netzwerkprobleme und
    Performance-Einbußen lösen.
@@ -38,15 +38,15 @@ beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
    Ressourcenpaket beheben.
 2. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
    um Kompatibilitätsprobleme zu vermeiden.
-3. **Vanilla-Client verwenden:** Versuche es mit dem Vanilla-Minecraft-Client ohne Mods, um mögliche
-   Konflikte zu vermeiden
+3. **Vanilla-Client verwenden:** Versuche es mit dem Vanilla-Minecraft-Client ohne Modifikationen, um mögliche
+   Konflikte zu vermeiden.
 4. **Computer neu starten:** Ein Neustart kann diverse Probleme lösen und ist auch bei
    Schwierigkeiten mit dem Ressourcenpaket empfehlenswert.
 5. **Servereinstellungen prüfen:** Stelle sicher, dass du Server-Ressourcenpakete in den
    Servereinstellungen aktiviert hast. ![](server-settings.gif)
 6. **Alte Ressourcenpakete löschen:** Gehe in deinem Minecraft-Verzeichnis in den `downloads`-Ordner
    und lösche alle vorhandenen Dateien. Starte anschließend deinen Minecraft-Client neu, damit das
-   Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird.![](delete-packs.gif)
+   Ressourcenpaket beim nächsten Beitritt neu heruntergeladen wird. ![](delete-packs.gif)
 7. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus
    und wieder ein. Manchmal kann dies Probleme mit dem Ressourcenpaket beheben.
 
@@ -66,7 +66,7 @@ beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
 3. **Aktuelle Version nutzen:** Stelle sicher, dass du die neueste Version von Minecraft verwendest,
    um Kompatibilitätsprobleme zu vermeiden.
 4. **Modifikationen:** Solltest du Modifikationen für den Chat installiert haben, lösche diese.
-5. **Vanilla-Client nutzen:** Versuche es mit dem Vanilla-Minecraft-Client ohne Mods, um mögliche
+5. **Vanilla-Client nutzen:** Versuche es mit dem Vanilla-Minecraft-Client ohne Modifikationen, um mögliche
    Konflikte zu vermeiden.
 6. **Aus- und Einloggen:** Logge dich im Minecraft-Launcher mit deinem Microsoft-Konto einmal aus
    und wieder ein.
@@ -81,7 +81,7 @@ beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
    erneut, eine Nachricht zu senden. Ein einfaches Ab- und erneutes Anmelden ohne zwischenzeitliches
    Schließen des Launchers reicht möglicherweise nicht aus.
 9. **Gespeicherte Anmeldedaten löschen:** Sollte das Problem weiterhin bestehen, schließe den
-   Minecraft-Launcher vollständig. Öffne unter Windows den Ordner `%\appdata%\.minecraft` und lösche
+   Minecraft-Launcher vollständig. Öffne unter Windows den Ordner <path>%\appdata%\.minecraft</path> und lösche
    die Datei `launcher_accounts.json`. Starte den Launcher anschließend neu und melde dich erneut
    mit deinem Microsoft-Konto an.
 
@@ -99,7 +99,7 @@ beheben kannst. Mehr dazu findest du in den Tabs weiter unten:
 3. **NoRisk Client Voice Chat deaktivieren:** Nun suchst du nach „Voice“, wo du die beiden
    Ergebnisse deaktivierst. ![](nrc-disable-voicechat.png)
 4. **Simple Voice Chat installieren:** Zum Schluss wechselst du bei Content noch einmal zu Mods und
-   prüfst, ob die [Simple Voice Chat Mod](https://modrinth.com/mod/simple-voice-chat) installiert
+   prüfst, ob die Modifikation [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) installiert
    und aktiviert ist.
 5. **Minecraft starten:** Jetzt kannst du Minecraft wieder starten und alles sollte wieder
    funktionieren.

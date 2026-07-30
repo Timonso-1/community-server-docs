@@ -13,17 +13,17 @@
 
         <spotlight>
             <card href="survival-server.topic" badge="container"
-                  summary="Lerne den Survival-Server kennen und informiere dich über seine Funktionen und Features"/>
+                  summary="Lerne den Survival-Server kennen und informiere dich über seine Funktionen und Features."/>
             <card href="event-server.topic" badge="cup"
-                  summary="Informiere dich über aktuelle sowie vergangene Events und erfahre, wie du teilnehmen kannst"/>
+                  summary="Informiere dich über aktuelle sowie vergangene Events und erfahre, wie du teilnehmen kannst."/>
         </spotlight>
 
         <primary>
-            <title>Mache dich mit den Regeln vertraut</title>
+            <title>Mach dich mit den Regeln vertraut</title>
             <card href="rules-overview.topic" badge="check-list"
-                  summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst"/>
+                  summary="Lerne die Serverregeln kennen, bevor du auf dem Server spielst."/>
             <card href="verified-mods.md" badge="cross-check"
-                  summary="Eine Liste mit geprüften Modifikationen, die du auf dem Server verwenden darfst"/>
+                  summary="Eine Liste mit geprüften Modifikationen, die du auf dem Server verwenden darfst."/>
         </primary>
 
         <secondary>

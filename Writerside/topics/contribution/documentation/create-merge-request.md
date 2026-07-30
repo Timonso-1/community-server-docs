@@ -1,10 +1,10 @@
-# Merge Request erstellen
+# Pull Request erstellen
 
 Nachdem du deine
-[Änderungen veröffentlicht](publish-changes.md "Hier erfährst du wie du deine Änderungen veröffentlichen kannst")
-hast, kannst du einen Merge Request erstellen, um deine Änderungen in die offizielle Dokumentation übernehmen zu lassen.
+[Änderungen veröffentlicht](publish-changes.md "Hier erfährst du, wie du deine Änderungen veröffentlichen kannst")
+hast, kannst du einen Pull Request erstellen, um deine Änderungen in die offizielle Dokumentation übernehmen zu lassen.
 
-<procedure title="Merge Request erstellen" id="merge-request">
+<procedure title="Pull Request erstellen" id="merge-request">
 <step>
 Gehe auf die Seite <b>deines</b> Forks auf GitHub.
 </step>

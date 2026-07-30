@@ -9,7 +9,7 @@
 ## Über das Event {id="general-info"}
 
 Bei diesem Event spielt Höhe keine Rolle.\
-Von gigantischen Türmen bis hin zu schwebenden Städten, die scheinbar ins Unendliche wachsen - der Kreativität sind keine Grenzen gesetzt. \
+Von gigantischen Türmen bis hin zu schwebenden Städten, die scheinbar ins Unendliche wachsen – der Kreativität sind keine Grenzen gesetzt. \
 Doch wie hoch kannst du wirklich bauen? Finde es heraus!
 
 ![limitless heights](limitless-heights.jpeg){border-effect="rounded"}
@@ -18,7 +18,7 @@ Doch wie hoch kannst du wirklich bauen? Finde es heraus!
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event läuft voraussichtlich vom **08.02.2025 16:00 Uhr** bis zum **10.02.2025 16:00 Uhr**.
+: Das Event läuft voraussichtlich vom **08.02.2025 um 16:00 Uhr** bis zum **10.02.2025 um 16:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event findet in der Version **1.21.4** für die **Java Edition** statt.

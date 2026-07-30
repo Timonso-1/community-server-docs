@@ -108,7 +108,7 @@ Weitere Informationen findest du **[hier](doc-contribution.md "Dokumentationsbei
 </tab>
 </tabs>
 
-### Weitere Informationen {id="more-info"}
+## Weitere Informationen {id="more-info"}
 
 <deflist>
 <def title="Wie bewerbe ich mich?" id="how-to-apply">

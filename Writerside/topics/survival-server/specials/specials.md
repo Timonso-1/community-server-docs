@@ -29,14 +29,14 @@ Vanilla-Mechanik.
 
 </def>
 
-<def title="Voice-Chat" id="voice-mod">
+<def title="Sprachchat" id="voice-mod">
 
-Der Server unterstützt offiziell einen VoiceChat. Dieser wird nicht benötigt, um auf dem Server zu
+Der Server unterstützt offiziell einen Sprachchat. Dieser wird nicht benötigt, um auf dem Server zu
 spielen, bietet interessierten Spielern aber die Möglichkeit, mit anderen Spielern im Spiel zu
-sprechen, wenn diese die Mod ebenfalls installiert haben.
+sprechen, wenn diese die Modifikation ebenfalls installiert haben.
 
 <tabs>
-<tab title="Curseforge" group-key="mod-launcher-curse-forge">
+<tab title="CurseForge" group-key="mod-launcher-curse-forge">
 
 [Simple Voice Chat Download](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 </tab>

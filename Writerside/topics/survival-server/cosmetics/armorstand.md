@@ -33,13 +33,13 @@ Nun öffnet sich ein Menü, in dem du verschiedene Einstellungen vornehmen kanns
 > {style="tip"}
 
 {type="medium"}
-x-Achse einstellen
+X-Achse einstellen
 : Klicke die <b>rote Wolle</b> an.
 
-y-Achse einstellen
+Y-Achse einstellen
 : Klicke die <b>grüne Wolle</b> an.
 
-z-Achse einstellen
+Z-Achse einstellen
 : Klicke die <b>blaue Wolle</b> an.
 
 ### Stärke {collapsible="true" default-state="collapsed" id="strength"}
@@ -183,7 +183,7 @@ Arme ein- oder ausschalten
 
 Sichtbarkeit ein- oder ausschalten
 :
-1. Klicke im Menü auf den **Trank** auf den Rüstungsständer.
+1. Klicke im Menü auf den **Trank**.
 2. Um die Sichtbarkeit ein- oder auszuschalten, führe einen <shortcut>Linksklick</shortcut> auf den Rüstungsständer
    aus.
 

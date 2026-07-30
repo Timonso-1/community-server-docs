@@ -1,6 +1,6 @@
 # Mobile Shop-Chest
 
-## So kannst du die mobile Shop-Chest herstellen: {id="shop-chest-crafting"}
+## So kannst du die mobile Shop-Chest herstellen {id="shop-chest-crafting"}
 
 Die Shop-Chest ist eine mobile Kiste, die du überall platzieren kannst, um deinen Shop für andere Spieler zugänglich zu
 machen.

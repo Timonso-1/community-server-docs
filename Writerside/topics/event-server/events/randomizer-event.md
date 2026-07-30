@@ -29,7 +29,7 @@ dich bereit für unvorhersehbare Abenteuer!
 </tab>
 <tab title="Entitäten" id="entity-drops">
 
-- Die Beute von Kreaturen sind wild durcheinandergewürfelt.
+- Die Beute von Kreaturen ist wild durcheinandergewürfelt.
 - Die Beute ist für jeden Spieler individuell.
 - Es kann vorkommen, dass nach dem Besiegen einer Kreatur nichts erscheint, falls die ersetzte Beuteliste leer ist.
 
@@ -64,13 +64,13 @@ Darüber hinaus kannst du dir mit `/sethome` einen Home-Punkt setzen und dich mi
 {style="note"}
 
 </tab>
-<tab title="VoiceChat" id="voice-chat">
+<tab title="Sprachchat" id="voice-chat">
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 </tab>
 <tab title="ChestProtect" id="chestprotect">
@@ -78,14 +78,14 @@ Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plu
 Um Griefing vorzubeugen, hast du die Möglichkeit, deine Kisten zu sichern. Verwende dazu folgende Befehle:
 
 /chestprotect
-: Öffnet das Hauptmenü von Chestprotect.
+: Öffnet das Hauptmenü von ChestProtect.
 Hier kannst du verschiedene Einstellungen vornehmen und hast einen Überblick über alle Sicherungen.
 
 /lock
 : Sperrt eine Kiste nach anschließendem Anklicken.
 
 /trust &lt;player&gt;
-: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nachdem du die Kiste angeklickt hast.
 
 /untrust &lt;player&gt;
 : Entfernt den angegebenen Spieler aus der Sicherung, nachdem du die Kiste angeklickt hast.

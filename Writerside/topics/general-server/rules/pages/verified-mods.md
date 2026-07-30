@@ -2,8 +2,6 @@
 switcher-label: Language
 ---
 
-[rules]: survival-rules "Zurück zu den Regeln"
-
 [replaymod]: https://www.replaymod.com/
 
 # Geprüfte Modifikationen
@@ -28,8 +26,8 @@ Bitte beachte, dass **auch andere Modifikationen erlaubt** sind, die **nicht geg
 
 ## Überprüfte Modifikationen {switcher-key="Deutsch" id="verified-modifications-ger"}
 
-- **Performance-Mods und Shader**
-    - Performance-Mods wie `Optifine`, `Sodium` oder `Starlight` sowie auch Shader sind in der Regel kein Problem.
+- **Performance-Modifikationen und Shader**
+    - Performance-Modifikationen wie `Optifine`, `Sodium` oder `Starlight` sowie auch Shader sind in der Regel kein Problem.
       Diese kannst du verwenden.
 
 - AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin),

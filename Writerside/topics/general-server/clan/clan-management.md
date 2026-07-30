@@ -42,8 +42,6 @@ herabgestuft werden.
 
 Mit dem Befehl `/clan disband` kann der Clan-Besitzer seinen Clan auflösen.
 
-
-
 > Nach Eingabe des Befehls muss die Auflösung im Chat manuell bestätigt werden.
 > Sobald die Bestätigung erfolgt, wird der Clan **unwiderruflich** gelöscht und alle Mitglieder
 > entfernt.

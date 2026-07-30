@@ -25,7 +25,6 @@ sollen.
 
 In den ersten 24 Stunden des Events steht dir mit `/trades` jede Stunde ein neuer Trade zur Verfügung, in dem du wertvolle und einzigartige Items erhalten kannst!
 
->
 > Sobald ein Trade freigeschaltet wurde, bleibt dieser für den Rest des Events freigeschaltet. Du musst also zu dem Zeitpunkt nicht online sein.
 >
 {style="tip" title="Was passiert, wenn ich einen Trade verpasse?"}
@@ -40,13 +39,13 @@ Darüber hinaus kannst du dir mit `/sethome` einen Home-Punkt setzen und dich mi
 >
 {style="warning"}
 
-### VoiceChat {id="voicechat"}
+### Sprachchat {id="voicechat"}
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 
 ## Regeln {id="rules"}

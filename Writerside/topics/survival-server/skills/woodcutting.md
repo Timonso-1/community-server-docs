@@ -11,19 +11,19 @@ Die Menge der gewonnenen Erfahrung hängt von der Holzart ab.
 
 ## Welche Fähigkeiten gibt es? {id="skills"}
 
-Der Woodcutting-Skill bietet dir je nach Level folgende Vorteile.
+Der Woodcutting-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Craftsmanship" id="craftsmanship">
 
-Äxte verlieren <tooltip term="depends-on-level">`0% → 50%`</tooltip> weniger Haltbarkeit
+Äxte verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Forest's Gift" id="forests-gift">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von geerntetem Holz zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von geerntetem Holz zu erhalten.
 
 **Verfügbar ab Level: 11**
 
@@ -31,7 +31,7 @@ Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x 
 <def title="Master Lumberjack" id="master-lumberjack">
 
 Verringert den Cooldown des [Lumberjack](custom-enchantments.md)-Enchantments um <tooltip term="depends-on-level">
-`0 → 15 Sekunden`</tooltip>
+`0 → 15 Sekunden`</tooltip>.
 
 **Verfügbar ab Level: 21**
 

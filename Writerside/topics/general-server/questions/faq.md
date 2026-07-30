@@ -63,7 +63,7 @@
 Es gibt verschiedene Webseiten, auf denen du Log-Dateien hochladen und anschließend einen Link dazu posten kannst.
 **Bitte poste den Log nie als lange Nachricht in einen Chat!**
 
-- [PasteBin](https://pastebin.com)
+- [Pastebin](https://pastebin.com)
 - [GitHub](https://gist.github.com)
 - [Paste](https://paste.ee)
 - [mclo.gs](https://mclo.gs)
@@ -126,7 +126,7 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
 Es gibt verschiedene Webseiten, auf denen du Crash-Reports hochladen und anschließend einen Link dazu posten kannst.
 **Bitte poste den Crash-Report nie als lange Nachricht in einen Chat!**
 
-- [PasteBin](https://pastebin.com)
+- [Pastebin](https://pastebin.com)
 - [GitHub](https://gist.github.com)
 - [Paste](https://paste.ee)
 - [mclo.gs](https://mclo.gs)
@@ -145,7 +145,7 @@ Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt
 In der Modrinth-App wählst du dein Modpack-Profil aus. Klicke oben rechts auf die drei Punkte und dann auf `Ordner öffnen`.
 Dort findest du den Ordner `crash-reports`.
 Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei (am
-Datum/Uhrzeit im Dateinamen erkennbar) und lade diese auf einer der oben genannten Seiten hoch.
+Datum und an der Uhrzeit im Dateinamen erkennbar) und lade diese auf einer der oben genannten Seiten hoch.
 </tab>
 <tab title="GD Launcher" id="minecraft-crash-gd-launcher">
 
@@ -213,7 +213,7 @@ einen [Entbannungsantrag](support.md#unban-ticket)!
 </def>
 <def title="Wieso gibt es keine Villager?" id="why-no-villager">
 
-> Siehe [Besonderheiten](specials.md#no-villagers "Klicke hier für mehr Information").
+> Siehe [Besonderheiten](specials.md#no-villagers "Klicke hier für mehr Informationen").
 
 </def>
 <def title="Wieso sind Elytren im End deaktiviert?" id="why-no-elytra-in-end">

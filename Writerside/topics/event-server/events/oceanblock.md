@@ -6,7 +6,7 @@
 
 <video src="https://www.youtube.com/watch?v=5LmDttvPDg4"/>
 
-[Map Download](https://drive.google.com/file/d/10FxOaIS7NX0H81DoFieOtLrr9Oq9Ki8W/)
+[Map-Download](https://drive.google.com/file/d/10FxOaIS7NX0H81DoFieOtLrr9Oq9Ki8W/)
 
 ## Über das Event {id="general-info"}
 
@@ -35,7 +35,7 @@ sollen.
    haben, AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls nicht gestattet. Allein das Betreten des
    Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu einem Ausschluss führen.
    Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwende sie
-   nicht, [wirf einen Blick auf die Liste geprüfter Mods](verified-mods.md "Liste der geprüften Modifikationen")
+   nicht, [wirf einen Blick auf die Liste geprüfter Modifikationen](verified-mods.md "Liste der geprüften Modifikationen")
    oder [kontaktiere den Support](support.md "Support, Erstattungen & Bugreport").
 
    > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Freecam**, **MouseWheelie**, **AutoClicker**,

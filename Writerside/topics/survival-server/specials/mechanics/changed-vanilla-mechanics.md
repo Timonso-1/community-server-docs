@@ -1,4 +1,3 @@
-
 # Geänderte Vanilla-Mechaniken
 
 ## Spawn limits {collapsible="true" default-state="collapsed" id="spawn-limits"}
@@ -125,25 +124,25 @@ Ticks-Per
 
 <deflist id="ticks-per-settings-def" collapsible="false" default-state="collapsed" type="medium">
 <def title="Ambient Spawn" id="ticks-per-ambient-spawn">
-Anzahl der Ticks zwischen jedem Versuch, Umgebungsmobs zu spawnen
+Anzahl der Ticks zwischen jedem Versuch, Umgebungsmobs zu spawnen.
 </def>
 <def title="Tiere Spawn" id="ticks-per-animal-spawn">
-Anzahl der Ticks zwischen jedem Versuch, Tiere zu spawnen
+Anzahl der Ticks zwischen jedem Versuch, Tiere zu spawnen.
 </def>
 <def title="Axolotl" id="ticks-per-axolotl-spawn">
-Anzahl der Ticks zwischen jedem Versuch, Axolotl zu spawnen
+Anzahl der Ticks zwischen jedem Versuch, Axolotl zu spawnen.
 </def>
 <def title="Monster" id="ticks-per-monster-spawn">
-Anzahl der Ticks zwischen jedem Versuch, Monster zu spawnen
+Anzahl der Ticks zwischen jedem Versuch, Monster zu spawnen.
 </def>
 <def title="Wasser Ambient" id="ticks-per-water-ambient-spawn">
-Anzahl der Ticks zwischen jedem Versuch, Wasser-Ambient-Mobs zu spawnen
+Anzahl der Ticks zwischen jedem Versuch, Wasser-Ambient-Mobs zu spawnen.
 </def>
 <def title="Wasser Spawn" id="ticks-per-water-spawn">
-Anzahl der Ticks zwischen jedem Versuch, Wasser-Mobs zu spawnen
+Anzahl der Ticks zwischen jedem Versuch, Wasser-Mobs zu spawnen.
 </def>
 <def title="Wasser Untergrund Spawn" id="ticks-per-water-underground-spawn">
-Anzahl der Ticks zwischen jedem Versuch, Wasser-Untergrund-Mobs zu spawnen
+Anzahl der Ticks zwischen jedem Versuch, Wasser-Untergrund-Mobs zu spawnen.
 </def>
 <def title="Trichter Check" id="ticks-per-hopper-check">
 Die Anzahl der Ticks, die zwischen den Überprüfungen vergehen, um Gegenstände aus oder in einen Trichter zu ziehen.
@@ -255,7 +254,7 @@ ressourcenintensiv und werden daher durch DAB effizienter gestaltet.
 <tr>
     <td>Startdistanz</td>
     <td>12 Blöcke</td>
-    <td>Definiert die Mindestdistanz in Blöcken, in denen DAB <b>nicht</b> aktiv ist. Das bedeutet, dass Entitäten, 
+    <td>Definiert die Distanz in Blöcken, bis zu der DAB <b>nicht</b> aktiv ist. Das bedeutet, dass Entitäten,
     die sich näher als 12 Blöcke an einem Spieler befinden, normal agieren und ihre Gehirn-Ticks nicht durch
     DAB beeinflusst werden.</td>
 </tr>
@@ -270,7 +269,7 @@ ressourcenintensiv und werden daher durch DAB effizienter gestaltet.
     <td>Aktivierungsdistanz-Modifikator</td>
     <td>8.0</td>
     <td>Dieser Wert steuert, wie die Entfernung zum Spieler die Tick-Frequenz der Entität beeinflusst. Je höher der Wert,
-    desto schneller werden die Gehirn-Ticks ausgeführt. </td>
+    desto schneller werden die Gehirn-Ticks ausgeführt.</td>
 </tr>
 </table>
 

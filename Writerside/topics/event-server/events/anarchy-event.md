@@ -6,7 +6,7 @@
 
 <video src="https://www.youtube.com/watch?v=eJ3wrRLPGIs"/>
 
-[Map Download](https://1drv.ms/u/s!Ajc2CthqxhPDiRuchitpjDBO2NQr?e=w8Tx33&v=eJ3wrRLPGIs)
+[Map-Download](https://1drv.ms/u/s!Ajc2CthqxhPDiRuchitpjDBO2NQr?e=w8Tx33&v=eJ3wrRLPGIs)
 
 ## Über das Event {id="general-info"}
 

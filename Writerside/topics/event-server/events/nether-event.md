@@ -23,7 +23,7 @@ Er bietet dir wichtige Items zum Handeln an, die dein Leben deutlich erleichtern
 >
 {style="note" title="Es gibt keine Regeländerungen für dieses Event!"}
 
-Um den Server stabil zu halten und den Support-Aufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
+Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
 
 ### Teleportation {id="teleportation"}
 
@@ -35,27 +35,27 @@ Darüber hinaus kannst du dir mit `/sethome` einen Home-Punkt setzen und dich mi
 >
 {style="note"}
 
-### VoiceChat {id="voicechat"}
+### Sprachchat {id="voicechat"}
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
-#### Chestprotect
+### ChestProtect
 
 Um Griefing vorzubeugen, hast du die Möglichkeit, deine Kisten zu sichern. Verwende dazu folgende Befehle:
 
 /chestprotect
-: Öffnet das Hauptmenü von Chestprotect.
+: Öffnet das Hauptmenü von ChestProtect.
 Hier kannst du verschiedene Einstellungen vornehmen und hast einen Überblick über alle Sicherungen.
 
 /lock
 : Sperrt eine Kiste nach anschließendem Anklicken.
 
 /trust &lt;player&gt;
-: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nachdem du die Kiste angeklickt hast.
 
 /untrust &lt;player&gt;
 : Entfernt den angegebenen Spieler aus der Sicherung, nachdem du die Kiste angeklickt hast.

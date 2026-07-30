@@ -1,5 +1,3 @@
-[rules]: survial-rules.md "Zurück zu den Regeln"
-
 # Wie kannst du dem Netzwerk beitreten?
 
 Sobald du das Netzwerk betrittst, findest du dich in der **Lobby** wieder.
@@ -7,7 +5,7 @@ Diese kann auch von anderen Servern aus jederzeit über den Befehl `/hub` erreic
 
 ## Server-Auswahl {id="select-server"}
 
-In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unterserver anwählen:
+In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unterserver auswählen:
 
 <tabs>
 <tab title="Survival-Server" id="survival">

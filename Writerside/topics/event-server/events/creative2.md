@@ -21,7 +21,7 @@ Es wird spannend zu sehen, was du alles innerhalb einer ganzen Woche erschaffen 
 
 > Neben den allgemeinen Serverregeln, die du [hier](rules.md) einsehen kannst, gilt folgender Zusatz:
 >
-> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic-Mods nicht gestattet** und kann zu einem Ausschluss führen!
+> In diesem Event ist die Nutzung von **Litematica und/oder anderen Schematic-Modifikationen nicht gestattet** und kann zu einem Ausschluss führen!
 >
 {style="warning" title="Es gibt geänderte Regeln speziell für dieses Event!"}
 
@@ -29,11 +29,11 @@ Es wird spannend zu sehen, was du alles innerhalb einer ganzen Woche erschaffen 
 
 Um den Server stabil zu halten und den Support-Aufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
 
-- Du kannst keine Items droppen oder aufheben
-- Der Nether und das End sind deaktiviert
-- Es stehen grundsätzlich nur Items zur Verfügung, die es auch „normal“ gibt. Es können keine Custom-Items z. B. aus dem Singleplayer genutzt werden
-- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden
-- Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
+- Du kannst keine Items fallen lassen oder aufheben.
+- Der Nether und das End sind deaktiviert.
+- Es stehen grundsätzlich nur Items zur Verfügung, die es auch „normal“ gibt. Es können keine Custom-Items z. B. aus dem Singleplayer genutzt werden.
+- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden.
+- Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture.
 
 ### Teleportation {id="teleportation"}
 
@@ -45,13 +45,13 @@ Darüber hinaus kannst du dir mit `/sethome` einen Home-Punkt setzen und dich mi
 >
 {style="note"}
 
-### VoiceChat {id="voicechat"}
+### Sprachchat {id="voicechat"}
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 
 ## Q&amp;A {id="q-a"}

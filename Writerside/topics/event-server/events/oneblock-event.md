@@ -21,7 +21,7 @@ Insel aus, erkunde die gefährlichen Weiten und meistere die Herausforderungen j
 
 {collapsible="true" type="medium"}
 `/locateOneBlock`
-: Zeigt dir die Koordinaten deines OneBlock im Chat an.
+: Zeigt dir die Koordinaten deines OneBlocks im Chat an.
 
 `/relocate here`
 : Verlegt deinen OneBlock an deine aktuelle Position. Kann nicht verwendet werden, wenn ein weiterer OneBlock in der Nähe ist.

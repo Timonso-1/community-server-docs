@@ -13,24 +13,24 @@ Die Menge der gewonnenen Erfahrung hängt von der Seltenheit und der Stärke des
 
 Der Combat-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Battle Hardened" id="battle-hardened">
 
-Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit
+Waffen und Rüstungen verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Reapers's Fortune" id="reapers-fortune">
 
-Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Monstern zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Monstern zu erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Strong Impact" id="strong-impact">
 
-Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Schaden gegen feindliche Kreaturen
+Verursache <tooltip term="depends-on-level">`0 % → 15 %`</tooltip> mehr Schaden gegen feindliche Kreaturen.
 
 **Verfügbar ab Level: 21**
 
