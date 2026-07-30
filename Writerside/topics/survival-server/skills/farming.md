@@ -13,24 +13,24 @@ Die Menge der gewonnenen Erfahrung hängt von der Nutzpflanze oder der Tierart a
 
 Der Farming-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Earthbound Durability" id="earthbound-durability">
 
-Schaufeln und Hacken verlieren <tooltip term="depends-on-level">`0% → 50%`</tooltip> weniger Haltbarkeit
+Schaufeln und Hacken verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Green Thumb" id="green-thumb">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von Nutzpflanzen zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Nutzpflanzen zu erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Satiation" id="satiation">
 
-Verliere <tooltip term="depends-on-level">`0% → 60%`</tooltip> weniger Hunger
+Verliere <tooltip term="depends-on-level">`0 % → 60 %`</tooltip> weniger Hunger.
 
 **Verfügbar ab Level: 21**
 

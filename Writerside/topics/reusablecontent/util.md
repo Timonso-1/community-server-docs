@@ -23,15 +23,15 @@
 > Um das Spielerlebnis auf dem Server zu optimieren, gibt es ein offizielles Modpack, das
 > ausschließlich getestete
 > Modifikationen enthält.
-> Alle enthaltenen Mods sind erlaubt und mit dem Server kompatibel.
+> Alle enthaltenen Modifikationen sind erlaubt und mit dem Server kompatibel.
 > \
 > **Das Modpack kannst du
 > auf [Modrinth](https://modrinth.com/modpack/castcrafter-survival-server "Klicke, um zum Modpack zu gelangen!")
 > herunterladen.**
 > \
 > \
-> **Änderungen am Modpack oder das Hinzufügen zusätzlicher Mods können zu Inkompatibilitäten und
-> unter Umständen zu einem Ausschluss des Servers führen.**
+> **Änderungen am Modpack oder das Hinzufügen zusätzlicher Modifikationen können zu Inkompatibilitäten und
+> unter Umständen zu einem Ausschluss vom Server führen.**
 > **Wir übernehmen keine Verantwortung für modifizierte Versionen des Modpacks.**
 >
 {style="tip" title="Offizielles Server-Modpack"}
@@ -51,13 +51,13 @@
 
 <snippet id="voicechat-available">
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern
 sprechen kannst.
 
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findest du
-hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du
+hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 </snippet>
 
@@ -120,13 +120,13 @@ Darüber hinaus kannst du dir mit `/sethome` einen Home-Punkt setzen und dich mi
 {style="note"}
 
 </tab>
-<tab title="VoiceChat" id="voice-chat">
+<tab title="Sprachchat" id="voice-chat">
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 </tab>
 <tab title="ChestProtect" id="chestprotect">
@@ -134,14 +134,14 @@ Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plu
 Um Griefing vorzubeugen, hast du die Möglichkeit, deine Kisten zu sichern. Verwende dazu folgende Befehle:
 
 /chestprotect
-: Öffnet das Hauptmenü von Chestprotect.
+: Öffnet das Hauptmenü von ChestProtect.
 Hier kannst du verschiedene Einstellungen vornehmen und hast einen Überblick über alle Sicherungen.
 
 /lock
 : Sperrt eine Kiste nach anschließendem Anklicken.
 
 /trust &lt;player&gt;
-: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nach anschließendem Anklicken der Kiste.
+: Fügt den angegebenen Spieler zu deiner Sicherung hinzu, nachdem du die Kiste angeklickt hast.
 
 /untrust &lt;player&gt;
 : Entfernt den angegebenen Spieler aus der Sicherung, nachdem du die Kiste angeklickt hast.

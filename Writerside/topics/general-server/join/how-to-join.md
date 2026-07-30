@@ -1,5 +1,3 @@
-[rules]: survial-rules.md "Zurück zu den Regeln"
-
 # Wie kannst du dem Netzwerk beitreten?
 
 Sobald du das Netzwerk betrittst, findest du dich in der **Lobby** wieder.
@@ -7,7 +5,7 @@ Diese kann auch von anderen Servern aus jederzeit über den Befehl `/hub` erreic
 
 ## Server-Auswahl {id="select-server"}
 
-In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unterserver anwählen:
+In der Lobby kannst du über den **Kompass** in deinem Inventar verschiedene Unterserver auswählen:
 
 <tabs>
 <tab title="Survival-Server" id="survival">
@@ -27,10 +25,7 @@ Kategorie [Besonderheiten](specials.md "Klicke, um dir die veränderten Vanilla-
 Um auf dem Survival-Server zu spielen, müssen folgende Bedingungen erfüllt sein:
 * **Version:** [Java-Edition](https://de.minecraft.wiki/w/Java_Edition) [%required_game_version%](%required_game_version_link%).
 * **Discord:** Ein aktiver Discord-Account ist zwingend erforderlich.
-* **Whitelist:** Du musst eine [Whitelist](survival-server-whitelist.md "%click-more-info%") auf unserem [Discord-Server](%dc_link%)
-  erstellen.
-* **Aktivität:** Sobald du auf der Whitelist bist, darfst du den Discord-Server nicht mehr verlassen, da sonst der
-  Zugriff entfällt.
+* **Minecraft-Discord-Verbindung:** Du musst eine aktive [Minecraft-Discord-Verbindung](survival-server-whitelist.md "%click-more-info%") haben.
 
 Weitere Informationen zur Whitelist erfährst du [hier](survival-server-whitelist.md "%click-more-info%").
 </def>

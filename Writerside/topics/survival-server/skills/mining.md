@@ -13,25 +13,27 @@ Die Menge der gewonnenen Erfahrung hängt von der Seltenheit der Blöcke ab.
 
 Der Mining-Skill bietet dir je nach Level folgende Vorteile:
 
-<deflist >
+<deflist>
 <def title="Skillful Extraction" id="skillful-extraction">
 
-Spitzhacken verlieren <tooltip term="depends-on-level">`0% → 50%`</tooltip> weniger Haltbarkeit
+Spitzhacken verlieren <tooltip term="depends-on-level">`0 % → 50 %`</tooltip> weniger Haltbarkeit.
 
 **Verfügbar ab Level: 1**
 
 </def>
 <def title="Spelunking" id="spelunking">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 20%`</tooltip> Chance, 2x Drops von Erzen zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 20 %`</tooltip> Chance, 2x Drops von Erzen zu
+erhalten.
 
 **Verfügbar ab Level: 11**
 
 </def>
 <def title="Dynamic Mining" id="dynamic-mining">
 
-Erhalte eine <tooltip term="depends-on-level">`0% → 1%`</tooltip> Chance, beim Abbauen von Stein oder Deepslate
-für <tooltip term="depends-on-level">`3 → 12 Sekunden`</tooltip> Haste VIII zu erhalten
+Erhalte eine <tooltip term="depends-on-level">`0 % → 1 %`</tooltip> Chance, beim Abbauen von Stein
+oder Deepslate für <tooltip term="depends-on-level">`3 → 12 Sekunden`</tooltip> Haste VIII zu
+erhalten.
 
 **Verfügbar ab Level: 21**
 
@@ -40,9 +42,10 @@ für <tooltip term="depends-on-level">`3 → 12 Sekunden`</tooltip> Haste VIII z
 
 ## Levelübersicht {collapsible="true" default-state="collapsed" id="level-overview"}
 
-Hier siehst du, wie viele XP du brauchst, um ein bestimmtes Level zu erreichen, oder wie viele XP du bis dahin insgesamt
-gesammelt haben musst.
-> Die ersten Level benötigen weniger XP als die fortgeschritteneren Level, um eine Balance zwischen Early-, Mid- und
+Hier siehst du, wie viele XP du brauchst, um ein bestimmtes Level zu erreichen, oder wie viele XP du
+bis dahin insgesamt gesammelt haben musst.
+> Die ersten Level benötigen weniger XP als die fortgeschritteneren Level, um eine Balance zwischen
+> Early-, Mid- und
 > Endgame zu gewährleisten.
 >
 
@@ -103,11 +106,12 @@ gesammelt haben musst.
 
 Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
 
-| Level | Belohnung                         |
-|-------|-----------------------------------|
-| 10    | Netheritbarren                    |
-| 20    | Trank mit Eile X                 |
-| 30    | Verzaubertes Buch mit Soulbound   |
-| 40    | Verzaubertes Buch mit Effizienz VI |
+| Level | Belohnung                           |
+|-------|-------------------------------------|
+| 10    | Netheritbarren                      |
+| 20    | Trank mit Eile X                    |
+| 30    | Verzaubertes Buch mit Soulbound     |
+| 40    | Verzaubertes Buch mit Effizienz VI  |
 | 50    | Verzaubertes Buch mit Effizienz VII |
+
 ****

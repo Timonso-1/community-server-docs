@@ -3,7 +3,7 @@
 <deflist collapsible="true" default-state="collapsed">
 <def title="Kopiergeschützte Karten" id="anti-copy-maps">
 
-Der Server bietet die Möglichkeit an, Karten vor weiteren Kopien zu schützen.
+Der Server bietet die Möglichkeit, Karten vor weiteren Kopien zu schützen.
 
 - Lege hierzu deine Karte mit einer Glasscheibe in einen Kartentisch.
 

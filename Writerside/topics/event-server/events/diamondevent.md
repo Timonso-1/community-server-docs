@@ -30,7 +30,7 @@ Wie schnell werden wir es gemeinsam schaffen, dieses Ziel zu erreichen?
 Während des Events spendet CastCrafter für jedes abgebaute Diamanterz 0,01 € (also insgesamt 4.000 €, wenn das Ziel erreicht wird).
 Weitere Details zu der Aktion werden von CastCrafter im Livestream bekanntgegeben.
 
-### Diamond Rang {id="diamond-rank"}
+### Diamond-Rang {id="diamond-rank"}
 
 Während des Events hast du bei jedem abgebauten Erz eine geringe Chance, einen speziellen Rang zu gewinnen: den Diamond-Rang.
 Dieser Rang wird dir für insgesamt 90 Tage verliehen und bietet dir unter anderem Priority Queue für zukünftige Events sowie für den Survival-Server.

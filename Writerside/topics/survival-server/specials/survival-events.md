@@ -1,12 +1,12 @@
 # Survival-Events
 
-### Angel-Event {id="fishing-event"}
+## Angel-Event {id="fishing-event"}
 
 An jedem <tooltip term="Wochenende">Wochenende</tooltip> findet um **20:00 Uhr** ein Angel-Event statt,
 das **20 Minuten** dauert. Während dieses Events besteht eine erhöhte Chance auf Mending, Soulbound, Totems sowie weitere [Trödel- und Schatzfänge](https://minecraft.wiki/w/Fishing).
 Hierzu bekommst du den Glückseffekt.
 
-### Mining-Event {id="mining-event"}
+## Mining-Event {id="mining-event"}
 
 An allen <tooltip term="Wochentage">Wochentagen</tooltip> findet um **20:00 Uhr** ein Mining-Event statt,
 das **20 Minuten** dauert. Während dieses Events wird die Abbaugeschwindigkeit erhöht, indem du den Effekt `Eile X` erhältst.

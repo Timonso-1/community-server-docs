@@ -14,7 +14,7 @@
     <primary>
       <title>Informationsübersicht</title>
       <card href="rules.md" badge="library"
-            summary="Die allgemeinen Serverregeln"/>
+            summary="Die allgemeinen Serverregeln."/>
       <card href="verified-mods.md" badge="support"
             summary="Eine Liste mit Modifikationen, die vom Server-Team überprüft wurden und ohne Bedenken auf dem Server verwendbar sind."/>
     </primary>

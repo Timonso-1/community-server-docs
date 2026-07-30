@@ -13,7 +13,7 @@ Klicke auf <code>Git</code> und dann auf <code>Update Project</code>.
 Dann wählst du <code>merge</code> aus und klickst auf <code>OK</code>.
 <img src="update-project-third.png" alt="Select merge" style="block"/>
 <warning>
-Wenn du <code>rebase</code> auswählst, werden deine Änderungen mit den Änderungen aus dem Repository überschrieben 
+Wenn du <code>rebase</code> auswählst, werden deine Änderungen mit den Änderungen aus dem Repository überschrieben
 und sie gehen verloren.
 </warning>
 </step>

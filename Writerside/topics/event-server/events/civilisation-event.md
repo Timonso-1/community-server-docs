@@ -101,7 +101,7 @@ Schatzkammer
 : Die Seltenheit der gesammelten Gegenstände.
 
 Supermarkt
-: Wer hat die meisten / unterschiedlichsten Lebensmittel hergestellt?
+: Wer hat die meisten bzw. unterschiedlichsten Lebensmittel hergestellt?
 
 Kneipe
 : Wer hat die unterschiedlichsten Tränke hergestellt?
@@ -138,7 +138,7 @@ Kriterium 4 kann durch Twitch bedingt nur mit 10 Punkten bewertet werden.
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event läuft voraussichtlich vom **10.08.2024** um **14:00 Uhr** bis **11.08.2024** um **14:00 Uhr**.
+: Das Event läuft voraussichtlich vom **10.08.2024** um **14:00 Uhr** bis zum **11.08.2024** um **14:00 Uhr**.
 
 Wie lange läuft das Event? {id="event-time"}
 : Das Event läuft 24 Stunden.

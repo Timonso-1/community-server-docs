@@ -1,6 +1,6 @@
 # Flags bearbeiten
 
-## So kannst du deine Grundstücks-Flags anpassen: {id="plot-edit-flags"}
+## So kannst du deine Grundstücks-Flags anpassen {id="plot-edit-flags"}
 
 1. Gib `/protect` im Chat ein und klicke nun im angezeigten Menü auf **Meine Grundstücke**, um dir
    alle deine Grundstücke anzeigen zu lassen. Hier findest du ebenfalls weitere Informationen zu deinen
@@ -15,7 +15,7 @@
 
 4. Nun kannst du die Flags deines ausgewählten Grundstücks anpassen.\
    Du kannst z. B. auswählen, ob andere Spieler auf deine Truhen Zugriff haben oder auf Tieren reiten können.
-   ![plot flags](plot-flags.png) {border-effect="rounded" thumbnail="false" width="480" width="480"}
+   ![plot flags](plot-flags.png) {border-effect="rounded" thumbnail="false" width="480"}
 
 5. Um den Status eines Flags zu ändern, führe einen <shortcut>Linksklick</shortcut> aus.
    ![chest access members](plot-chest-access-members.png) {border-effect="rounded" thumbnail="false" width="680"}

@@ -140,7 +140,7 @@ Sie sammeln Feedback, vermitteln bei Anliegen und sorgen für gute Kommunikation
 - Bearbeitung vertraulicher Anliegen und Probleme.
 - Informieren der Spieler über Updates, Wartungsarbeiten und Fehler.
 - Aktives Einholen und Auswerten von Feedback.
-- Betreuung von Social-Media (optional).
+- Betreuung der Social-Media-Kanäle (optional).
 - Vermittlung bei allgemeinen Themen zwischen Spielern und Team.
 
 </def>

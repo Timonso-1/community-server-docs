@@ -17,7 +17,7 @@ Bilde Allianzen, baue gedrehte Häuser und erkunde die Höhlen, in denen nichts 
 
 {collapsible="true" default-state="collapsed"}
 Wann beginnt das Event? {id="event-date"}
-: Das Event läuft voraussichtlich vom **26.01.2025 16:00 Uhr** bis zum **28.01.2025 16:00 Uhr**.
+: Das Event läuft voraussichtlich vom **26.01.2025 um 16:00 Uhr** bis zum **28.01.2025 um 16:00 Uhr**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
 : Das Event wird in der Version **1.21.4** stattfinden.

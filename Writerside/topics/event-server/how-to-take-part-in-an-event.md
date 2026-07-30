@@ -14,7 +14,7 @@ Um an einem Event teilzunehmen, folge diesen Schritten:
     - Sollte aktuell kein Event laufen, kannst du dich auch nicht mit dem Event-Server verbinden.
     - Sollte das Event voll sein, wirst du in eine Warteschlange versetzt.
 
-   > - Spieler mit speziellen Rängen wie z. B. [Veterane](rank-list-overview.md#veteran "%click-more-info%") genießen eine höhere Priorität und rücken in der Warteschlange schneller nach vorne.
+   > - Spieler mit speziellen Rängen wie z. B. [Veteranen](rank-list-overview.md#veteran "%click-more-info%") genießen eine höhere Priorität und rücken in der Warteschlange schneller nach vorne.
    > - [Teammitglieder](team-member-overview.md "%click-more-info%") wie [Moderatoren](rank-list-overview.md#moderator "%click-more-info%") oder [Supporter](rank-list-overview.md#supporter "%click-more-info%") haben die Berechtigung, die Warteschlange vollständig zu überspringen, um sofortigen Zugriff auf das Event zu erhalten.
    >
    {style="tip"}

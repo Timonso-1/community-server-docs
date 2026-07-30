@@ -1,4 +1,4 @@
-<primary-label ref="event-upcoming"/>
+<primary-label ref="event-held"/>
 <secondary-label ref="anarchy-event-2-mc-version"/>
 <secondary-label ref="anarchy-event-2-date"/>
 
@@ -18,7 +18,7 @@ Auf der [Stats Website](https://stats.castcrafter.de/) findest du detaillierte S
 
 ## Zusätzliche Regeln {id="rules"}
 
-Es handelt sich zwar um ein Anarchy-Event, dennoch möchten wir ein faires und respektvolles Miteinander gewährleisten. Daher gilt auf dem Eventserver das folgende angepasste Regelwerk: [Anarchy Regelwerk](anarchy-rules.md)
+Es handelt sich zwar um ein Anarchy-Event, dennoch möchten wir ein faires und respektvolles Miteinander gewährleisten. Daher gilt auf dem Event-Server das folgende angepasste Regelwerk: [Anarchy-Regelwerk](anarchy-rules.md).
 
 ## Q&amp;A {id="q-a"}
 

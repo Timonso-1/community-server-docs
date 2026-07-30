@@ -2,11 +2,11 @@
 <secondary-label ref="rich-event-mc-version"/>
 <secondary-label ref="rich-event-date"/>
 
-# Reich werden Event
+# Reich-werden-Event
 
 ## Über das Event {id="general-info"}
 
-Du startest gleichzeitig mit 100 anderen Spielern auf einer riesigen Welt und hast **24 Stunden Zeit**, um so reich wie möglich zu werden. 
+Du startest gleichzeitig mit 100 anderen Spielern auf einer riesigen Welt und hast **24 Stunden Zeit**, um so reich wie möglich zu werden.
 Ob durch Farmen, Handeln oder das Entdecken **wertvoller Ressourcen** – jeder Weg zum Vermögen ist möglich.
 
 ![Rich Event Banner](rich-thumbnail.png) {border-effect="rounded"}

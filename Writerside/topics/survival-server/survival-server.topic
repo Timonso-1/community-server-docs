@@ -55,7 +55,7 @@
                 <card href="faq.md" badge="search"
                       summary="Hier findest du Antworten auf häufig gestellte Fragen."/>
                 <card href="troubleshooting.md" badge="tools"
-                      summary="Hier findest du Lösungsansätze für häufige Probleme"/>
+                      summary="Hier findest du Lösungsansätze für häufige Probleme."/>
                 <card href="map-downloads.md" badge="folder"
                       summary="Hier findest du die Downloads zu den alten Maps."/>
             </cards>

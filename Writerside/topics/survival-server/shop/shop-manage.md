@@ -1,6 +1,6 @@
 # Shop verwalten
 
-## So kannst du deinen Shop verwalten: {id="shop-manage"}
+## So kannst du deinen Shop verwalten {id="shop-manage"}
 
 1. Öffne deine Shops, indem du auf deinen **Spielerkopf** unten rechts klickst.
    ![shop-myshop](shop-myshop.png) {border-effect="rounded" thumbnail="false" width="480"}
@@ -54,9 +54,9 @@
    zurückzukehren.
    ![shop-amount-unstore-cancel](shop-amount-unstore-cancel.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-   > Stelle sicher, dass in deinem Inventar genug Platz ist. Andernfalls werden die Items neben dir gedroppt und können von anderen Spielern eingesammelt werden.
+   > Stelle sicher, dass in deinem Inventar genug Platz ist. Andernfalls werden die Items neben dir fallen gelassen und können von anderen Spielern eingesammelt werden.
    >
-   > {style="note"}
+   {style="note"}
 
 <br/>
 Wenn ein Shop nicht mehr benötigt wird, weil beispielsweise das Lager ausverkauft ist, mache einen <shortcut>Shift + Linksklick</shortcut> auf den Shop und bestätige den

@@ -19,19 +19,10 @@
                   summary="Wie du an einem Event teilnehmen kannst, erfährst du hier."/>
         </spotlight>
 
-        <primary>
-            <title>Aktuelle Events</title>
-            <card href="anarchy2-event.md" badge="creative"/>
-        </primary>
-
-        <secondary>
-            <title>Kommende Events</title>
-            <card href="building-event.md" badge="creative"/>
-        </secondary>
-
         <misc>
             <cards narrow="true">
                 <title>Bereits stattgefundene Events</title>
+                <card href="anarchy2-event.md" badge="creative" summary="Mehr Informationen"/>
                 <card href="crafting-challenge.md" badge="network" summary="Mehr Informationen"/>
                 <card href="oneblock-event.md" badge="container" summary="Mehr Informationen"/>
                 <card href="randomizer-event.md" badge="search" summary="Mehr Informationen"/>

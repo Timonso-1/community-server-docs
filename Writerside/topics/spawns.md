@@ -11,7 +11,7 @@ Diese sorgen dafür, dass sich die Spieler gleichmäßig in der Welt verteilen.
 - **Bett/Seelenanker:** Betten und Seelenanker funktionieren wie gewohnt.
 - **Nether/End:** An jedem Spawn befindet sich ein Netherportal, jedoch nur ein Endportal am Central Spawn.
 - **Teleportation:** Du kannst dich von jedem Spawn zu den benachbarten Spawns teleportieren.
-- **Händler:** Weitere Infos zu den Spawn-Händlern findest du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
+- **Händler:** Weitere Informationen zu den Spawn-Händlern findest du [hier](light-blocks-and-invisible-item-frames-and-globe-banner-pattern.md "%click-more-info%").
 
 > Es gibt **keinen `/spawn`-Befehl**.  
 > Wenn du zu einem Spawnpunkt möchtest, musst du dorthin laufen oder die Teleportation zwischen benachbarten Spawns nutzen.

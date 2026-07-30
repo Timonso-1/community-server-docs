@@ -5,9 +5,9 @@
 Ein MTR-Test hilft uns dabei, herauszufinden, ob das Problem an deiner Internetverbindung oder am Server liegt.
 Du testest damit, ob deine Datenpakete problemlos durch das Netzwerk bis zu uns kommen oder irgendwo auf dem Weg hängen bleiben.
 
-## Wie kann ich einen MTR durchführen?
+## Wie kann ich einen MTR-Test durchführen?
 
-Wie du einen MTR-Test durchführen kannst, ist im folgenden Abschnitt genauer beschrieben.
+Wie du einen MTR-Test durchführen kannst, ist im folgenden Abschnitt beschrieben.
 
 > Bitte beachte, dass die Ergebnisse des Tests nur hilfreich sind, wenn er durchgeführt wird, während die Probleme tatsächlich auftreten!
 >

@@ -53,15 +53,15 @@ Falls du organisch bauen kannst, integriere gerne organische Elemente wie Tiere 
 </tab>
 </tabs>
 
-## Tools & Plugins {id="tools"}
+## Tools und Plugins {id="tools"}
 
-Um dir das Bauen zu erleichtern, stehen dir folgende Plugins & Tools zur Verfügung:
+Um dir das Bauen zu erleichtern, stehen dir folgende Plugins und Tools zur Verfügung:
 
 - **WorldEdit**
 - **VoxelSniper**
 - **goBrush**
 - **goPaint**
-- **Acreon**
+- **Arceon**
 - [Rüstungsständer Editor](armorstand.md "Klicke hier für die Anleitung der Rüstungsständer!") (Stock)
 - [Head Database](armorstand.md "Klicke hier für die Anleitung zu den Köpfen!")
 

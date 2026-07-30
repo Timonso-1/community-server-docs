@@ -1,6 +1,6 @@
 # Mitglieder bearbeiten
 
-## So kannst du die Mitglieder auf deinem Grundstück bearbeiten: {id="plot-edit-members"}
+## So kannst du die Mitglieder auf deinem Grundstück bearbeiten {id="plot-edit-members"}
 
 <tabs>
 <tab title="Mitglied hinzufügen" id="add-member">
@@ -20,7 +20,7 @@
    hinzufügen.
    ![add member menu](plot-add-member.png) {border-effect="rounded" thumbnail="false" width="480"}
 
-5. Tippe den Spielernamen ein und klicke dann auf das **Suchen**, um den Vorgang abzuschließen.
+5. Tippe den Spielernamen ein und klicke dann auf **Suchen**, um den Vorgang abzuschließen.
    ![add member menu](plot-confirm-member.png) {border-effect="rounded" thumbnail="false" width="480"}
 
 

@@ -5,7 +5,7 @@ Dabei legst du einen Namen und ein Kürzel fest – das Kürzel wird später hin
 Clan-Mitglieder angezeigt.
 
 > - Der Clanname muss **mindestens drei** Zeichen lang sein und darf **maximal 16 Zeichen**
-    umfassen.
+>   umfassen.
 > - Der Clantag muss entweder aus **drei oder vier Zeichen** bestehen.
 > - Der Clantag kann sowohl Groß- als auch Kleinbuchstaben enthalten.
 > - Sowohl der Clanname als auch der Clantag müssen **[regelkonform](rules.md)** sein.

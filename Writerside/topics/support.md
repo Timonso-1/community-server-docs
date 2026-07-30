@@ -18,8 +18,7 @@ Wenn du Fragen oder Probleme auf dem Survival-Server hast, öffne ein Survival-S
 > Wir empfehlen deshalb allen Spielern, je nach Grafikkarte,
 > entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia
 > oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall
-> die
-> letzten 5 Minuten als Video speichern zu können.
+> die letzten 5 Minuten als Video speichern zu können.
 >
 {style="warning" title="Erstattung"}
 
@@ -34,8 +33,7 @@ Wenn du Probleme oder Fragen zu Events hast, öffne ein Event-Server-Support-Tic
 > Wir empfehlen deshalb allen Spielern, je nach Grafikkarte,
 > entweder [ShadowPlay](https://www.nvidia.com/de-de/geforce/geforce-experience/shadowplay/) für Nvidia
 > oder [Radeon ReLive](https://www.amd.com/de/technologies/radeon-software-relive) für AMD zu verwenden, um im Notfall
-> die
-> letzten 5 Minuten als Video speichern zu können.
+> die letzten 5 Minuten als Video speichern zu können.
 >
 {style="warning" title="Erstattung"}
 
@@ -55,7 +53,7 @@ Wenn du einen Spieler melden möchtest, Gegenstände gestohlen wurden oder Gebä
 > Eine Aussage wie „XY ist kaputt“ oder „XY hat sich daneben benommen“ hilft uns nicht weiter.
 > Wir benötigen den **genauen** Spielernamen und die **genauen** Koordinaten.
 >
-{style="note" title="Für diesen Ticket-Typ wird ein extra Formular geöffnet!"}
+{style="note" title="Für diesen Ticket-Typ wird ein separates Formular geöffnet!"}
 
 </tab>
 <tab title="Bugreport" id="bugreport-ticket">

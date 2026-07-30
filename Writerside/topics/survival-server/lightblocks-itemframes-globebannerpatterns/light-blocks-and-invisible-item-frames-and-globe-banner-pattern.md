@@ -1,4 +1,4 @@
-# Lightblocks, unsichtbare ItemFrames & Globe-Banner-Vorlagen
+# Lightblocks, unsichtbare ItemFrames und Globe-Banner-Vorlagen
 
 > Für alle Spieler bieten wir die Möglichkeit, Lightblocks, unsichtbare ItemFrames sowie Globe-Banner-Vorlagen auch
 > auf dem Survival-Server zu erwerben.  
@@ -7,9 +7,9 @@
 >
 > Der Erwerb der Gegenstände erfolgt über %main_currency%s.
 >
-{title="Lightblocks & unsichtbare ItemFrames" style="tip"}
+{title="Lightblocks und unsichtbare ItemFrames" style="tip"}
 
-![NPC Trader](spawn-trader.png){width=750 thumbnail="false" border-effect="rounded"}
+![NPC Trader](spawn-trader.png){width="750" thumbnail="false" border-effect="rounded"}
 
 <tabs>
 

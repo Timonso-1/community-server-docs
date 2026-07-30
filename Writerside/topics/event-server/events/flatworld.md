@@ -7,7 +7,7 @@
 
 <video src="https://www.youtube.com/watch?v=l96KwwMBWzw"/>
 
-[Map Download](https://drive.google.com/file/d/1F3PMXmnfSsb2l-OxLV8HLBev5E0jb4MU/)
+[Map-Download](https://drive.google.com/file/d/1F3PMXmnfSsb2l-OxLV8HLBev5E0jb4MU/)
 
 ## Über das Event {id="general-info"}
 
@@ -28,7 +28,7 @@ Tipp: Viele Items kannst du in dieser Welt nur durch das Finden von Strukturen e
    haben, AntiCheat-Maßnahmen zu umgehen oder auszutricksen, sind ebenfalls nicht gestattet. Allein das Betreten des
    Servers mit einer unerlaubten Modifikation wird bereits als Verstoß angesehen und kann zu einem Ausschluss führen.
    Sollte es also nicht klar sein, ob eine Modifikation erlaubt ist, verwende sie
-   nicht, [wirf einen Blick auf die Liste geprüfter Mods](verified-mods.md "Liste der geprüften Modifikationen")
+   nicht, [wirf einen Blick auf die Liste geprüfter Modifikationen](verified-mods.md "Liste der geprüften Modifikationen")
    oder [kontaktiere den Support](support.md "Support, Erstattungen & Bugreport").
 
    > Explizit verbotene Modifikationen für dieses Event sind unter anderem: **Freecam**, **MouseWheelie**, **AutoClicker**,

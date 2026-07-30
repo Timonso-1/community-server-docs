@@ -13,7 +13,7 @@ Das Ziel: den CraftAttack-Würfel mithilfe der Community fertigzustellen. **Cast
 Jeder baut seinen eigenen Würfel. Deinen Plot kannst du mit `/plot auto` claimen und mit `/plot home` jederzeit betreten.
 Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler mit `/plot trust <player>` zu deinem Plot einladen.
  
-> **Achtung:** Der Würfel muss die Maße `44x44x44 Blöcke` haben. Das bedeutet, dass die Grundfläche `44x44 Blöcke` groß ist und die Höhe `44 Blöcke` beträgt.
+> **Achtung:** Der Würfel muss die Maße `44 × 44 × 44 Blöcke` haben. Das bedeutet, dass die Grundfläche `44 × 44 Blöcke` groß ist und die Höhe `44 Blöcke` beträgt.
 > 
 > {style="warning"}
 
@@ -24,19 +24,19 @@ Wenn du mit einer Gruppe von Freunden bauen möchtest, kannst du andere Spieler 
 
 > Neben den allgemeinen [Serverregeln](rules.md) gilt folgender Zusatz:
 >
-> In diesem Event ist die Nutzung von **Litematica und / oder anderen Schematic-Mods nicht gestattet** und kann zu einem Ausschluss führen!
+> In diesem Event ist die Nutzung von **Litematica und/oder anderen Schematic-Modifikationen nicht gestattet** und kann zu einem Ausschluss führen!
 >
 {style="warning" title="Es gibt geänderte Regeln speziell für dieses Event!"}
 
 ## Befehle {id="commands"}
 Folgende Befehle können während des Events verwendet werden:
 
-#### Plots beanspruchen {collapsible="true" default-state="collapsed" id="commands-claim"}
+### Plots beanspruchen {collapsible="true" default-state="collapsed" id="commands-claim"}
 
 /plot claim {id="plot-claim-command"}
 : Beansprucht den Plot, auf dem du dich aktuell befindest.
 
-#### Teleportieren {collapsible="true" default-state="collapsed" id="commands-teleport"}
+### Teleportieren {collapsible="true" default-state="collapsed" id="commands-teleport"}
 
 /plot home {id="plot-home"}
 : Teleportiert dich zu deinem Plot.
@@ -44,7 +44,7 @@ Folgende Befehle können während des Events verwendet werden:
 /plot kick &lt;player | *&gt; {id="plot-kick-command"}
 : Wirft den angegebenen oder alle Spieler von deinem Plot.
 
-#### Plot-Einstellungen verändern {collapsible="true" default-state="collapsed" id="commands-settings"}
+### Plot-Einstellungen verändern {collapsible="true" default-state="collapsed" id="commands-settings"}
 
 /plot trust &lt;player | *&gt; {id="plot-trust-command"} 
 : Erteilt dem angegebenen oder allen Spielern Baurechte, auch wenn du offline bist.
@@ -55,7 +55,7 @@ Folgende Befehle können während des Events verwendet werden:
 /plot remove &lt;player | *&gt; {id="plot-remove-command"}  
 : Hebt die mit `/plot trust` oder `/plot add` vergebenen Baurechte auf.
 
-#### Plot-Informationen abrufen {collapsible="true" default-state="collapsed" id="commands-info"}
+### Plot-Informationen abrufen {collapsible="true" default-state="collapsed" id="commands-info"}
 
 /plot info {id="command-plot-info"} 
 : Zeigt Informationen zu einem Plot an.
@@ -63,20 +63,20 @@ Folgende Befehle können während des Events verwendet werden:
 ### Geänderte Mechaniken {id="changed-mechanics"}
 Um den Server stabil zu halten und den Supportaufwand zu minimieren, wurden für das Event einige Mechaniken geändert oder deaktiviert.
 
-- Redstone ist deaktiviert
-- Items können weder gedroppt noch aufgehoben werden
-- Nether und End sind deaktiviert
-- Es stehen nur reguläre Items zur Verfügung; modifizierte Items (z. B. aus dem Singleplayer) sind nicht nutzbar
-- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden
-- Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture
+- Redstone ist deaktiviert.
+- Items können weder fallengelassen noch aufgehoben werden.
+- Nether und End sind deaktiviert.
+- Es stehen nur reguläre Items zur Verfügung; modifizierte Items (z. B. aus dem Singleplayer) sind nicht nutzbar.
+- Mit Ausnahme von ArmorStands und ItemFrames gibt es keine Entities und es können auch keine gespawnt werden.
+- Einige Blöcke werden nicht getickt. Dies betrifft z. B. LeafDecay, CropGrowth und FarmlandMoisture.
 
-### VoiceChat {id="voicechat"}
+### Sprachchat {id="voicechat"}
 
-In diesem Event steht dir ein Ingame-VoiceChat zur Verfügung, über den du mit anderen Spielern sprechen kannst.
+In diesem Event steht dir ein Sprachchat im Spiel zur Verfügung, über den du mit anderen Spielern sprechen kannst.
 
-Um den VoiceChat benutzen zu können, musst du die SimpleVoiceChat-Mod installieren.
+Um den Sprachchat verwenden zu können, musst du die Modifikation Simple Voice Chat installieren.
 
-Den Download der Mod findest du hier: [SimpleVoiceChat](https://modrinth.com/plugin/simple-voice-chat)
+Den Download der Modifikation findest du hier: [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
 
 
 ## Q&amp;A {id="q-a"}
@@ -86,7 +86,7 @@ Wann beginnt das Event? {id="event-date"}
 : Das Event läuft voraussichtlich vom **26.04.2025** bis zum **03.05.2025**.
 
 Welche Version von Minecraft wird benötigt? {id="event-mc-version"}
-: Das Event findet in der Version **1.21.4** & **1.21.5** statt.
+: Das Event findet in den Versionen **1.21.4** und **1.21.5** statt.
 
 Was passiert, wenn ich gegen die Regeln verstoße? {id="event-rules"}
 : Regelverstöße werden ernst genommen und können zum dauerhaften Ausschluss vom gesamten Server führen. Halte dich
