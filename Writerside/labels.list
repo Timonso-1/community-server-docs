@@ -216,4 +216,7 @@
   <secondary-label id="anarchy-event-2-mc-version" name="26.2" color="purple">
     Das Event wird in der Minecraft-Java-Version 26.2 stattfinden.
   </secondary-label>
+  <secondary-label id="ca13-event-mc-version" name="26.2" color="purple">
+    Das Event wird in der Minecraft-Java-Version 26.2 stattfinden.
+  </secondary-label>
 </labels>
