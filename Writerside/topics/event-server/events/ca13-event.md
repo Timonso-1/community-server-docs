@@ -83,7 +83,7 @@ Folgende Befehle kannst du während des Events verwenden:
 `/untrust <Spieler>` {id="command-untrust"}
 : Entzieht dem angegebenen Spieler die zuvor erteilten Baurechte.
 
-### Besucher verwalten {collapsible="true" default-state="collapsed" id="commands-visitors"}
+### Spieler verwalten {collapsible="true" default-state="collapsed" id="commands-visitors"}
 
 `/p kick <Spieler>` {id="command-plot-kick"}
 : Entfernt den angegebenen Spieler einmalig von deinem Grundstück.
@@ -91,7 +91,10 @@ Folgende Befehle kannst du während des Events verwenden:
 `/p deny <Spieler>` {id="command-plot-deny"}
 : Sperrt den angegebenen Spieler für dein Grundstück.
 
-### Zum Grundstück teleportieren {collapsible="true" default-state="collapsed" id="commands-home"}
+### Spawn & Homes {collapsible="true" default-state="collapsed" id="commands-home"}
+
+`/spawn` {id="command-spawn"}
+: Teleportiert dich zum Spawn der Eventwelt.
 
 `/sethome` {id="command-sethome"}
 : Setzt den bei der Grundstückserstellung automatisch angelegten Home-Punkt an deine aktuelle Position um. Du kannst
