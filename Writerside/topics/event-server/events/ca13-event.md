@@ -114,7 +114,7 @@ Um dir das Bauen zu erleichtern, steht dir auf deinem Grundstück folgendes Tool
 
 - [**WorldEdit**](https://intellectualsites.gitbook.io/fastasyncworldedit)
 - [**Axiom Builder Mode**](https://axiomdocs.moulberry.com/builder/intro.html) - verfügbar für alle Spieler
-- [**Axiom Editor Mode**](https://axiomdocs.moulberry.com/editor/intro.html) - nur für Spieler mit Premium verfügbar
+- [**Axiom Editor Mode**](https://axiomdocs.moulberry.com/editor/intro.html) - verfügbar für Spieler mit Premium- oder Veteran-Rang
 
 ## Häufige Fragen {id="q-a"}
 
