@@ -110,7 +110,7 @@ den Befehl nur auf deinem eigenen Grundstück verwenden.
 
 ## Tools und Plugins {id="tools"}
 
-Um dir das Bauen zu erleichtern, steht dir auf deinem Grundstück folgendes Tool zur Verfügung:
+ Um dir das Bauen zu erleichtern, stehen dir auf deinem Grundstück folgende Tools zur Verfügung:
 
 - [**WorldEdit**](https://intellectualsites.gitbook.io/fastasyncworldedit)
 - [**Axiom Builder Mode**](https://axiomdocs.moulberry.com/builder/intro.html) - verfügbar für alle Spieler
